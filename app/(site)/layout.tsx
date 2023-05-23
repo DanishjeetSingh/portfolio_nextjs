@@ -1,8 +1,7 @@
 import Link from 'next/link'
-import './globals.css'
+import '../globals.css'
 import { Inter } from 'next/font/google'
 import Image from 'next/image'
-import logo from 'app/assets/svg/logo.svg'
 
 const inter = Inter({ subsets: ['latin'] })
 
